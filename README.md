@@ -6,18 +6,15 @@ Here are some ideas to get you started:
 -->
 <p><em>Remote Full-Stack Web Developer</em></p>
 
-###A little more about me:
+### A little more about me:
 
 ```javascript
-const eliVillalejos = {
-  lookingFor: "Front-end developer" || "Full-stack web developer",
-  pronouns: ["she", "her"],
-  code: [JavaScript, React, Redux, Ruby on Rails, HTML/CSS, Semantic UI, Bootstrap, 
-  Tailwind CSS, Material UI],
-  askMeAbout: [Chihuahuas, The 1975, food recipes, renovation shows],
-  challenge: "I am honing my React skills and picking up TypeScript",
-  funFacts: ['I have 4+ years of remote work experience with devs 
-  from all over the world', 
-  'my tiny chihuahua dog is ready to woof at the right offer']
+const bryanHurtado = {
+  lookingFor: 'Front-End developer' || 'Full-stack web developer',
+  code: [JavaScript, React, Redux, Ruby on Rails, HTML/CSS],
+  askMeAbout: ['New Technologies', 'Digital Art', 'Videogames', 'Movies'],
+  challenge: 'Completing my training!',
+  funFacts: ["I've been working remotely for over 4 years now as a Content Creator.",
+  "One string of my guitar always break when I get the right offer"]
 }
 ```
