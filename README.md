@@ -11,7 +11,7 @@ const bryanHurtado = {
   lookingFor: 'Front-End developer' || 'Full-stack web developer',
   code: [JavaScript, React, Redux, Ruby],
   askMeAbout: ['New Technologies', 'Digital Art', 'Videogames', 'Movies'],
-  challenge: 'Landing a job at a nice tech company or startup!',
+  challenge: 'Landing a job at a nice tech company/startup!',
   funFacts: ["I've been working remotely for over 4 years now as a Content Creator.",
   "My guitar has had 5 strings for the last 3 years"]
 }
