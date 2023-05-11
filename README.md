@@ -17,8 +17,8 @@ const bryanHurtado = {
 }
 ```
 <p>
-<img src="https://github-readme-stats.vercel.app/api?username=darkxdev&show_icons=true&theme=dark&hide_border=true" width="51%" style="display:inline-block;">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darkxdev&show_icons=true&theme=dark&hide_border=true&layout=compact" width="45.8%" style="display:inline-block;">
+<img src="https://github-readme-stats.vercel.app/api?username=darkxdev&show_icons=true&theme=dark&hide_border=true" width="56.4%" style="display:inline-block;">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darkxdev&show_icons=true&theme=dark&hide_border=true&layout=compact" width="42.6%" style="display:inline-block;">
 </p>
 
 
